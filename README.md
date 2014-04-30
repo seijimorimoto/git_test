@@ -3,5 +3,5 @@
 <ul>
   <li>Jorge</li>
   <li>Hector</li>
-  <li>El teacher</li>
+  <li>El Edo</li>
 <ul>
